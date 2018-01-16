@@ -6,7 +6,7 @@
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/Priz001/Pixelcanvas-Minimap/
+// @homepage     https://github.com/viprewad9810/Pixelcanvas-Minimap/
 // @updateURL    https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master/minimap.user.js
 // @grant        none
