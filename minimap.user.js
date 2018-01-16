@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Pixelcanvas Minimap
+// @name         Azerbaijan-minimap
 // @namespace    http://tampermonkey.net/
 // @version      3.0
-// @description  Pixelcanvas Minimap
+// @description  Azerbaijan-minimap
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
