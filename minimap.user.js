@@ -6,18 +6,18 @@
 // @author       Some Anon && Qh0stM4N
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/viprewad9810/Pixelcanvas-Minimap/
-// @updateURL    https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master/minimap.user.js
+// @homepage     https://github.com/viprewad9810/Azerbaijan-minimap/
+// @updateURL    https://raw.githubusercontent.com/viprewad9810/Azerbaijan-minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/viprewad9810/Azerbaijan-minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master/README.md
+//https://raw.githubusercontent.com/viprewad9810/Azerbaijan-minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/viprewad9810/Pixelcanvas-Minimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/viprewad9810/Azerbaijan-minimap/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
