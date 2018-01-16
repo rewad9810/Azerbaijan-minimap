@@ -3,4 +3,4 @@
 setup & update URL
 
 
-[minimap.user.js]
+[pixel tr]
