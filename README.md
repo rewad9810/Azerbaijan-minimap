@@ -1,5 +1,4 @@
 # Azerbaijan-minimap
 
-#setup & update URL
-
-#minimap.user.js
+setup & update URL
+minimap.user.js
